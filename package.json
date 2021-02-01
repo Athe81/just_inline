@@ -1,0 +1,13 @@
+{
+  "name": "just_inline",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "just_inline": "node index.js"
+  }
+}
